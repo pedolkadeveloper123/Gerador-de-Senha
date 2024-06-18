@@ -30,6 +30,6 @@ function generatePassword(){
 }
 
 function copyPassword(){
-  alert("Gladson, mais tarde vou comer tua prima, bjs!")
+  alert("Senha criada com sucesso!")
   navigator.clipboard.writeText(novaSenha);
 }
